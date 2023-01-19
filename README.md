@@ -16,6 +16,13 @@ fälschlicherweise auch "Caps Lock") als Feststelltaste fungiert (echtes "Caps
 Lock"). Für eine ausführlichere Erläuterung siehe
 [_Feststelltaste, Wikipedia_](https://de.wikipedia.org/wiki/Feststelltaste).
 
+## Belegung
+
+![T2-IBM-Tastaturbelegung](./assets/layout.png)
+
+> _Erstellt mit
+> [keyboard-layout-editor.com](http://keyboard-layout-editor.com)._
+
 ## Installation
 
 0. Deinstalliere alle alten Versionen von deinem System in den Einstellungen.
