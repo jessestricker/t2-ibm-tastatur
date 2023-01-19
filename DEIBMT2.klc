@@ -1,4 +1,4 @@
-KBD	DEIBMT2	"Diese Tastaturbelegung basiert auf der Windows-beiliegenden Belegung _Deutsch (IBM)_ und wurde um einige Tasten aus der in der DIN 2137-1:2012-06 definierten _Tastaturbelegung 2_ erweitert."
+KBD	DEIBMT2	"Deutsch (IBM, T2, v0.1.0)"
 
 COPYRIGHT	"(c) 2023 Jesse Stricker"
 
