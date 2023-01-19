@@ -9,11 +9,11 @@ Microsoft Windows um. Im Vergleich zur Standardbelegung (T1) erlaubt T2 die
 Eingabe vieler Buchstaben, diakritischer Zeichen und Satzzeichen aus
 europäischen Schriften.
 
-Als Basis-Tastaturbelegung wurde die in Windows eingebaute "Deutsch
-(IBM)"-Belegung verwendet. Diese unterscheidet sich von der gewöhnlichen
-"Deutsch"-Belegung darin, dass die Umschaltsperrentaste ("Shift Lock",
-fälschlicherweise auch "Caps Lock") als Feststelltaste fungiert (echtes "Caps
-Lock"). Für eine ausführlichere Erläuterung siehe
+Als Basis-Tastaturbelegung wurde die in Windows eingebaute „Deutsch
+(IBM)“-Belegung verwendet. Diese unterscheidet sich von der gewöhnlichen
+„Deutsch“-Belegung darin, dass die Umschaltsperrentaste („Shift Lock“,
+fälschlicherweise auch „Caps Lock“) als Feststelltaste fungiert (echtes „Caps
+Lock“). Für eine ausführlichere Erläuterung siehe
 [_Feststelltaste, Wikipedia_](https://de.wikipedia.org/wiki/Feststelltaste).
 
 ## Belegung
